@@ -7,7 +7,7 @@
  */
 namespace DemonAndAngel\Demo;
 class Demo {
-    public function say(){
-        echo "你好世界\n";
+    public function say($str = '你好世界'){
+        echo "{$str}\n";
     }
 }
