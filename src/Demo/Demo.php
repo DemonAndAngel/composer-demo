@@ -8,6 +8,6 @@
 namespace DemonAndAngel\Demo;
 class Demo {
     public function say(){
-        echo "Hello World\n";
+        echo "你好世界\n";
     }
 }
